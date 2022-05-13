@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+
+
+	
+#hero{
+	background-image: url("../bg-hero.jpg");
+	background-size: cover;
+	height: 75vh;
+		
+	
+}
+
+.btn-intense{
+	color:#000000;
+	background-color:#FFF6B1;
+}
+
+#welcome{
+	text-align: center;
+	padding: 5px;
+	
+}
+
+.circulo{
+	background-color:#55bc69;
+	width:1000px;
+	height: 140px;
+	border-radius: 300%;
+	margin: auto;
+	
+}
+
+footer{
+	background-color: #191919;
+	padding: 2%;
+	color:#6c6c6c;
+}
